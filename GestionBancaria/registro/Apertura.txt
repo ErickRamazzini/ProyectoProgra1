@@ -1,0 +1,2 @@
+DPI: 12345678, Numero de cuenta:20240531153630, Fecha: 2024-05-31, Monto Inicial: 7000.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 12345678, Numero de cuenta:20240601005035, Fecha: 2024-06-01, Monto Inicial: 12345.0, Tipo de Cuenta: CUENTA M0NETARIA

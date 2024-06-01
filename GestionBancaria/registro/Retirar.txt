@@ -1,0 +1,4 @@
+Cuenta: 12345678, Retiro: 1000.0
+Cuenta: 12345678, Retiro: 1000.0
+Cuenta: 12345678, Retiro: 22000.0
+Cuenta: 20240531153630, Retiro: 7000.0
